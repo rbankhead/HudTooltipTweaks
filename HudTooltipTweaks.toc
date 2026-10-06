@@ -2,7 +2,7 @@
 ## Title: HudTooltipTweaks
 ## Notes: Anchors the tooltip to your mouse cursor (bottom-left corner, consistently) instead of its fixed Edit Mode HUD position, and shows a mouseover unit's own target in its tooltip ("Target: ..."), showing ">> YOU <<" if that target is you. Per-line checkboxes in Interface Options -> AddOns let you turn off the target line, guild line, level/race line, class line, or faction line on player tooltips.
 ## Author: Richard Bankhead
-## Version: 1.4.0
+## Version: 1.5.0
 ## SavedVariables: HudTooltipTweaksDB
 
 Core.lua
